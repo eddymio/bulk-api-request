@@ -3,7 +3,7 @@ BULK CSV to API in Python
 
 This repository contains the codebase which is introduced on the following page :
 
-[Python tutorial on API requests and csv parsing](https://linkstraffic.net/ "Python Tutorial page")
+[Python tutorial on API requests and csv parsing](https://linkstraffic.net/from-csv-to-api-python-3-parsing/ "Python Tutorial page")
 
 It runs with the following environment :
 
