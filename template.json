@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Trade operation on broker",
+        "type": "OPERATION_TO_REPLACE",
+        "date": "DATE_OF_OPERATION",
+        "amount": 0.0,
+        "currency": "EUR",
+        "sandbox": false,
+        "broker": {
+            "id": 55
+        },
+        "rights": [
+            {
+                "id": 10
+            },
+            {
+                "id": 11
+            }
+        ],
+        "trader": {
+            "name": "NAME_TO_REPLACE",
+            "id": "ID_TO_REPLACE"
+        }
+    }
+    ,
+     {
+        "name": "Sandbox Trade operation",
+        "type": "OPERATION_TO_REPLACE",
+        "date": "DATE_OF_OPERATION",
+        "amount": 0.0,
+        "currency": "EUR",
+        "sandbox": true,
+        "broker": {
+            "id": 55
+        },
+        "rights": [
+            {
+                "id": 1
+            }
+        ],
+        "trader": {
+            "name": "NAME_TO_REPLACE",
+            "id": "ID_TO_REPLACE"
+        }
+    }
+]

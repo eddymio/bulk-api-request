@@ -1,0 +1,8 @@
+person_id,person_name,trade_amount,trade_type,date_of_trade
+1,John Doe,100.0,BUY,2021-01-01 10:00:00
+2,Igor Temo,85.0,BUY,2021-01-02 11:00:05
+3,Felicia Tore,1050.0,SELL,2021-01-03 12:00:15
+4,Bob Lep,18.5,SELL,2021-01-04 14:00:00
+5,Yvette Cord,258.0,SELL,2021-01-04 17:00:00
+6,Fanny Koi,1008.20,BUY,2021-01-05 01:00:00
+7,Donald Duck,468.50,BUY,2021-01-06 10:00:00
